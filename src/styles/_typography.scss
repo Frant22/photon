@@ -1,0 +1,45 @@
+h1, h2, h5 {
+ line-height: 1.4;
+}
+
+h1 {
+  font-size: 55px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: 700;
+}
+
+h5 {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.paragraph-3 {
+  font-size: 18px;
+  line-height: 2;
+}
+
+.paragraph-4 {
+  font-size: 14px;
+  line-height: 2;
+}
+
+@media screen and (max-width: $small-tablet-screen) {
+  h1 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 22px;
+    text-align: center;
+  }
+
+  h5 {
+    font-size: 18px;
+    text-align: center;
+  }
+}

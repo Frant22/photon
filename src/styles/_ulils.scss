@@ -1,0 +1,24 @@
+.col-primary-90 { color: $primary-90 !important; }
+.col-primary-80 { color: $primary-80 !important; }
+.col-primary-60 { color: $primary-60 !important; }
+
+.ls-4 {
+  letter-spacing: 4px;
+}
+
+.lh-2 {
+  line-height: 2;
+}
+
+.icon {
+  &-success {
+    &::before {
+      color: $green-color;
+    }
+  }
+  &-danger {
+    &::before {
+      color: $red-color;
+    }
+  }
+}

@@ -1,0 +1,47 @@
+.btn {
+  transition-duration: $transition-time;
+
+  &-warning {
+    background-color: $yellow-color;
+    border-color: $yellow-color;
+
+    &:hover {
+      background-color: #ffb11f;
+      border-color: #ffb11f;
+    }
+  }
+
+  &-outline {
+    &-danger {
+      color: $black;
+      border-color: $black;
+
+      &:hover {
+        color: $red-color;
+        border-color: $red-color;
+        background-color: white;
+      }
+    }
+
+    &-success {
+      color: $black;
+      border-color: $black;
+
+      &:hover {
+        color: $green-color;
+        border-color: $green-color;
+        background-color: white;
+      }
+    }
+  }
+
+  &-with-icon {
+    i {
+      margin-left: 5px;
+    }
+  }
+}
+
+.bi-check2::before, .bi-x-lg::before {
+  transform: scale(1.5) translate(8px, 8px);
+}
