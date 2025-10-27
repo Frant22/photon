@@ -5,6 +5,7 @@ li,
 button,
 input,
 textarea,
+a,
 p {
   margin: 0;
   padding: 0;
@@ -18,6 +19,7 @@ p {
   scroll-behavior: smooth;
 
   list-style: none;
+  text-decoration: none;
 }
 
 * {

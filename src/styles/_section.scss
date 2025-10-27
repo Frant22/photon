@@ -6,18 +6,33 @@
     height: 100%;
   }
 
+  &__image {
+    position: absolute;
+    right: 5vw;
+    top: 0;
+    width: 5vw !important;
+    height: auto !important;
+    transform: translateY(-50%) rotate(-12deg);
+    z-index: 0;
+  }
+
   &:first-of-type {
     height: calc(100vh - 72px);
   }
 
   &--grey {
-    background-color: $grey-color;
+    background-color: $primary-10;
   }
 }
 
 @media screen and (max-width: $small-tablet-screen) {
   .section {
-    padding: 2rem 0;
+
+    &__image {
+      width: 12vw !important;
+      right: 12vw !important;
+      transform: translateY(-45%) rotate(-40deg) !important;
+    }
 
     img {
       width: auto;

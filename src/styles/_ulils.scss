@@ -2,6 +2,12 @@
 .col-primary-80 { color: $primary-80 !important; }
 .col-primary-60 { color: $primary-60 !important; }
 
+.w-10 { width: 10% !important; }
+
+.border-bottom {
+  border-bottom: 1px solid $primary-10;
+}
+
 .ls-4 {
   letter-spacing: 4px;
 }
