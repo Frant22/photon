@@ -1,5 +1,6 @@
 .btn {
   transition-duration: $transition-time;
+  width: fit-content;
 
   &-warning {
     background-color: $yellow-color;
@@ -39,5 +40,11 @@
     i {
       margin-left: 5px;
     }
+  }
+}
+
+@media screen and (max-width: $small-tablet-screen) {
+  .btn {
+    width: 100%;
   }
 }
