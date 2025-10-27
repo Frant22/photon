@@ -28,6 +28,10 @@
 @media screen and (max-width: $small-tablet-screen) {
   .section {
 
+    &:first-of-type {
+      height: auto;
+    }
+
     &__image {
       width: 12vw !important;
       right: 12vw !important;
