@@ -2,6 +2,8 @@
   &__content {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
   }
 }
 
@@ -9,7 +11,18 @@
   .hero {
     &__content {
       height: calc(100dvh - 72px - 4rem);
+      min-height: calc(100dvh - 72px - 4rem);
       justify-content: center;
+      align-items: center;
+      //margin-bottom: 8rem;
+    }
+
+    &__img {
+      background: url("assets/images/hero.svg") no-repeat center;
+      background-size: contain;
+      flex-grow: 1;
+      height: 100%;
+      width: 100%;
     }
   }
 }

@@ -2,6 +2,20 @@
 .col-primary-80 { color: $primary-80 !important; }
 .col-primary-60 { color: $primary-60 !important; }
 
+.bg-primary-10 {
+  background-color: $primary-10;
+}
+
+.icon-filled {
+  border-radius: 50%;
+  background: white;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .w-10 { width: 10% !important; }
 
 .border-bottom {
@@ -20,11 +34,14 @@
   &-success {
     &::before {
       color: $green-color;
+      transform: scale(2);
     }
   }
+
   &-danger {
     &::before {
       color: $red-color;
+      transform: scale(2);
     }
   }
 }

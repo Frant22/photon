@@ -27,10 +27,7 @@
 
 @media screen and (max-width: $small-tablet-screen) {
   .section {
-
-    &:first-of-type {
-      height: auto;
-    }
+    padding: 2rem 0;
 
     &__image {
       width: 12vw !important;
