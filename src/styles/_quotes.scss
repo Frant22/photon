@@ -1,0 +1,11 @@
+.quotes::before {
+  content: "";
+  background-image: url('/assets/images/quotes.png');
+  position: absolute;
+  bottom: 3rem;
+  right: 3rem;
+  width: 100px;
+  height: 80px;
+  background-repeat: no-repeat;
+  background-position: center center;
+}

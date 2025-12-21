@@ -1,0 +1,23 @@
+.boost {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  &__icon {
+    padding: 12px;
+    border-radius: 0.375rem;
+    width: 80px !important;
+    height: 80px !important;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+
+@media screen and (max-width: $small-tablet-screen) {
+  .boost {
+    align-items: center;
+  }
+}
