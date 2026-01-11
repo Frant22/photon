@@ -1,8 +1,9 @@
 .header {
-  position: sticky;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
+  height: 72px;
   background-color: white;
   box-shadow: $bs-below;
   padding: 1rem 0 ;

@@ -1,0 +1,14 @@
+.client {
+  display: block;
+  background-color: $white;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  border-radius: 0.375rem;
+  aspect-ratio: 16/9;
+
+  img {
+    height: 100%;
+  }
+}

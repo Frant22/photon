@@ -1,0 +1,33 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  height: 100%;
+
+  &__label {
+    display: none;
+  }
+
+  &__input {
+    font-size: 16px;
+    color: $primary-80;
+    background-color: $white;
+    border-radius: 5px;
+    padding: 25px;
+    border: none;
+    outline: none;
+    height: 65px;
+    min-height: 65px;
+    line-height: 36px;
+
+    &:focus {
+      box-shadow: none;
+    }
+  }
+
+  &__textarea {
+    min-height: 160px;      // pick what you need
+    line-height: 1.4;       // normal text behavior
+    resize: none;       // optional
+  }
+}

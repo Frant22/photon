@@ -1,0 +1,152 @@
+<texts>
+    <!-- Header -->
+    <text name="nav.services" value="Services"/>
+    <text name="nav.about" value="About"/>
+    <text name="nav.clients" value="Clients"/>
+    <text name="cta.freePpcReview" value="Schedule your free PPC review"/>
+
+    <!-- Hero -->
+    <text name="hero.title" value="Is your ad spend generating as much revenue as it could?"/>
+    <text name="hero.subtitle" value="We help businesses grow by making their pay per click ad budgets work harder than ever before."/>
+    <text name="hero.cta" value="Schedule your free PPC review"/>
+    <text name="hero.note" value="No obligation &amp; fully confidential"/>
+
+    <!-- Options -->
+    <text name="options.title" value="The majority of your PPC ad budget may be going to waste"/>
+    <text name="options.description" value="The sad truth is that most PPC campaigns severely underperform. Meaning that you’re probably already paying too much for your leads and sales. But in an industry where everyone is an overnight ‘expert’, it’s hard to know who you can trust to improve your ROI."/>
+    <text name="options.question" value="“So what are my options?”"/>
+
+    <!-- Option 01 -->
+    <text name="options.option1.label" value="option 01"/>
+    <text name="options.option1.title" value="Managing your PPC account yourself"/>
+    <text name="options.option1.intro" value="When spending so much on ads, it’s tempting to try and manage your account internally. At least you can trust your own intentions, right? But this strategy often backfires."/>
+    <text name="options.option1.pro1.title" value="Cheap"/>
+    <text name="options.option1.pro1.text" value="- You can save some money upfront. And you can trust your own intentions."/>
+    <text name="options.option1.con1.title" value="Experience is essential"/>
+    <text name="options.option1.con1.text" value="- PPC management is complex and intricate, and ad platforms are incentivized to make you spend more and more."/>
+    <text name="options.option1.con2.title" value="Time intensive"/>
+    <text name="options.option1.con2.text" value="- your time is valuable - is it better spent on becoming a PPC expert or on what you do best - running your business?"/>
+
+    <!-- Option 02 -->
+    <text name="options.option2.label" value="option 02"/>
+    <text name="options.option2.title" value="Hiring a digital marketing agency"/>
+    <text name="options.option2.intro" value="Full-service marketing agencies will try to convince you to let them take care of your PPC campaigns too. But can generalists really make a tangible difference?"/>
+    <text name="options.option2.pro1.title" value="Low effort"/>
+    <text name="options.option2.pro1.text" value="- No need to search for the ideal solution, a full-service agency just handles everything."/>
+    <text name="options.option2.con1.title" value="Marketing vs data"/>
+    <text name="options.option2.con1.text" value="- Most agencies are focused much more on marketing than on a data-driven, ROI maximizing approach."/>
+    <text name="options.option2.con2.title" value="Lack of expertise"/>
+    <text name="options.option2.con2.text" value="- Getting the best value for your ad spend often requires uncommon insider knowledge that only experienced specialists have."/>
+
+    <!-- Option 03 -->
+    <text name="options.option3.label" value="option 03"/>
+    <text name="options.option3.title" value="Hiring an in-house PPC manager"/>
+    <text name="options.option3.intro" value="You can always keep tabs on an in-house PPC manager - maybe that’s a better bet?"/>
+    <text name="options.option3.pro1.title" value="Trustworthy"/>
+    <text name="options.option3.pro1.text" value="- As your employee, you can usually trust that they have your best interests at heart."/>
+    <text name="options.option3.con1.title" value="Expensive option"/>
+    <text name="options.option3.con1.text" value="- A recurring salary, in-house overheads, a high termination costs and the need for active management means this is a very costly option for most."/>
+    <text name="options.option3.con2.title" value="A risky gamble"/>
+    <text name="options.option3.con2.text" value="- If your PPC manager is underperforming, not only will they be costing you in lost revenue but you may never even know."/>
+
+    <!-- Services -->
+    <text name="services.kicker" value="But there's another option"/>
+    <text name="services.title" value="Coconut Digital - the agency with a singular focus: to radically boost ROI on your ad spend"/>
+    <text name="services.description" value="At Coconut Digital, we’re not here to help you with your PR, your email marketing or your SEO. We specialize in one thing only - squeezing every last drop of value from your ad budget."/>
+    <text name="services.cta" value="Schedule your free PPC review"/>
+
+    <!-- About -->
+    <text name="about.founder.name" value="Boris Kuzmenyuk"/>
+    <text name="about.founder.role" value="Founder &amp; Senior PPC Manager"/>
+    <text name="about.founder.quote1" value="At Photon Digital, we aim to tackle PPC's major issue: maximizing your ad investment returns."/>
+    <text name="about.founder.quote2" value="Beyond our passion, here’s why companies from the whole world choose to partner with us."/>
+    <text name="about.title" value="Your dedicated team of PPC experts"/>
+    <text name="about.description" value="We manage both big-budget accounts from large multinationals as well as lean, results-focused accounts for small to medium-sized companies. And we consistently increase ROI - often by as much as 300%"/>
+    <text name="about.point1" value="We all have finance, engineering or data analysis backgrounds."/>
+    <text name="about.point2" value="We use our own, custom-built optimization software not available to any other agency."/>
+    <text name="about.point3" value="We treat all our clients like they’re a member of our family."/>
+    <text name="about.point4" value="We are fully remote, meaning we love the flexibility and with fewer overheads we can offer better value to our clients."/>
+    <text name="about.point5" value="Every decision goes through a Senior PPC Manager."/>
+    <text name="about.point6" value="We’re fully Google Ads certified, 'Google Partners'."/>
+    <text name="about.point7" value="We’re often asked to train staff at other leading agencies."/>
+
+    <!-- Boosts -->
+    <text name="boosts.title" value="How Photon boosts ROI on your ad spend"/>
+    <text name="boosts.subtitle" value="At Photon, we help you squeeze every last drop of value from your ad budget."/>
+
+    <text name="boosts.item1.title" value="Focused Expertise"/>
+    <text name="boosts.item1.text" value="We’re not generalists that offer every marketing service under the sun. This means we can focus exclusively on making your PPC ads get better business outcomes."/>
+
+    <text name="boosts.item2.title" value="Extensive Experience"/>
+    <text name="boosts.item2.text" value="Our highly specialized team has a combined 30+ years of experience in running PPC campaigns. This means your account is always managed by a senior expert."/>
+
+    <text name="boosts.item3.title" value="Insider Knowledge"/>
+    <text name="boosts.item3.text" value="We’ve developed a proprietary approach to getting the best result for the lowest budget. This includes our custom-built software and our innovative strategies for optimal performance."/>
+
+    <text name="boosts.item4.title" value="Data Driven Approach"/>
+    <text name="boosts.item4.text" value="A detailed understanding of the underlying numbers means the difference between metrics that just look good and ones that deliver tangible results"/>
+
+    <text name="boosts.item5.title" value="Your Trusted Adviser"/>
+    <text name="boosts.item5.text" value="We know that our success is based on the success of our clients. So we are always on the lookout for lucrative opportunities and new tactics to help our clients grow."/>
+
+    <text name="boosts.item6.title" value="Proactive Account Management"/>
+    <text name="boosts.item6.text" value="We constantly strive to refine and optimize every account. As opposed to the ‘set it and forget it’ strategy that many agencies take."/>
+
+    <!-- Start -->
+    <text name="start.title" value="How to get started"/>
+    <text name="start.subtitle" value="Want to get your ad spend working as hard as possible?"/>
+
+    <text name="start.step1.label" value="step 01"/>
+    <text name="start.step1.title" value="Schedule your free audit"/>
+    <text name="start.step1.text" value="We only take on accounts where we know we can make a major impact on the ROI. Find out if we can help with our completely free, confidential, and no-obligation audit."/>
+
+    <text name="start.step2.label" value="step 02"/>
+    <text name="start.step2.title" value="Account set up"/>
+    <text name="start.step2.text" value="You could be missing opportunities and getting sub-optimal results if your campaign isn’t structured correctly. Let’s get your fundamentals right from the start."/>
+
+    <text name="start.step3.label" value="step 03"/>
+    <text name="start.step3.title" value="Ongoing optimisation"/>
+    <text name="start.step3.text" value="Where some agencies consider this as a basic maintenance phase, we take a different approach. We proactively refine, optimize, and are constantly on the lookout for opportunities that will help our clients grow."/>
+
+    <text name="start.cta" value="Schedule your free PPC review"/>
+
+    <!-- What we do -->
+    <text name="whatWeDo.title" value="What we do"/>
+    <text name="whatWeDo.subtitle" value="At Photon, we help you squeeze every last drop of value from your ad budget."/>
+
+    <text name="whatWeDo.tool.googleAds" value="Google Ads"/>
+    <text name="whatWeDo.tool.facebookAds" value="Facebook Ads"/>
+    <text name="whatWeDo.tool.googleShopping" value="Google Shopping"/>
+    <text name="whatWeDo.tool.bingAds" value="Bing Ads"/>
+    <text name="whatWeDo.tool.linkedinAds" value="LinkedIn Ads"/>
+    <text name="whatWeDo.tool.instagramAds" value="Instagram Ads"/>
+
+    <!-- Work -->
+    <text name="work.title" value="Who we work with"/>
+    <text name="work.subtitle" value="As a small, highly specialised team, we’re very selective with the clients we take on."/>
+    <text name="work.size.title" value="Size"/>
+    <text name="work.size.text" value="We work with organizations of all sizes - managing monthly ad budgets of between $1,000 and $250,000"/>
+    <text name="work.location.title" value="Location"/>
+    <text name="work.location.text" value="We work with clients all across the world - specializing in English and Spanish language ads"/>
+    <text name="work.credibility.title" value="Credibility"/>
+    <text name="work.credibility.text" value="We only work with sincere clients with proven and highly credible products and services."/>
+
+    <!-- Clients -->
+    <text name="clients.title" value="Our clients"/>
+    <text name="clients.placeholder.alt" value="placeholder"/>
+
+    <!-- Contact us -->
+    <text name="contact.title" value="&quot;What’s the next step?&quot; Your 100% free, no-obligation Review"/>
+    <text name="contact.bullet1" value="Discover if and where you’re paying too much for your leads"/>
+    <text name="contact.bullet2" value="Recommended solutions to get more value for your ad spend"/>
+    <text name="contact.bullet3" value="Uncover growth opportunities for your business"/>
+    <text name="contact.bullet4" value="See if there’s a mutually good fit to work together"/>
+
+    <text name="contact.form.nameLabel" value="Name"/>
+    <text name="contact.form.namePlaceholder" value="Your name"/>
+    <text name="contact.form.emailLabel" value="Email"/>
+    <text name="contact.form.emailPlaceholder" value="Your email"/>
+    <text name="contact.form.messageLabel" value="Message"/>
+    <text name="contact.form.messagePlaceholder" value="Type your comment or question (optional)"/>
+    <text name="contact.form.cta" value="Schedule your free PPC review"/>
+</texts>
