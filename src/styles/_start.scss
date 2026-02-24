@@ -21,7 +21,7 @@
 
   &::after {
     content: "";
-    background-image: url('/assets/images/dashed-line.png');
+    background-image: url('./assets/images/dashed-line.png');
     position: absolute;
     right: 0;
     left: calc(30px + (var(--bs-gutter-x) * 0.5));

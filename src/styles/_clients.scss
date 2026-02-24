@@ -12,3 +12,46 @@
     height: 100%;
   }
 }
+
+.clients {
+  & > div:nth-child(1) {
+    .client {
+      background-image: url("/src/assets/images/clients/4.svg");
+    }
+  }
+  & > div:nth-child(2) {
+    .client {
+      background-image: url("/src/assets/images/clients/5.svg");
+    }
+  }
+  & > div:nth-child(3) {
+    .client {
+      background-image: url("/src/assets/images/clients/6.svg");
+    }
+  }
+  & > div:nth-child(4) {
+    .client {
+      background-image: url("/src/assets/images/clients/7.svg");
+    }
+  }
+  & > div:nth-child(5) {
+    .client {
+      background-image: url("/src/assets/images/clients/8.svg");
+    }
+  }
+  & > div:nth-child(6) {
+    .client {
+      background-image: url("/src/assets/images/clients/9.svg");
+    }
+  }
+  & > div:nth-child(7) {
+    .client {
+      background-image: url("/src/assets/images/clients/10.svg");
+    }
+  }
+  & > div:nth-child(8) {
+    .client {
+      background-image: url("/src/assets/images/clients/11.svg");
+    }
+  }
+}

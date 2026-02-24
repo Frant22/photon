@@ -1,6 +1,6 @@
 .quotes::before {
   content: "";
-  background-image: url('/assets/images/quotes.png');
+  background-image: url('./assets/images/quotes.png');
   position: absolute;
   bottom: 3rem;
   right: 3rem;

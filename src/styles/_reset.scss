@@ -14,12 +14,12 @@ p {
   font-family: "Cairo", sans-serif;
   font-size: 16px;
   line-height: 1;
-  color: $primary-100;
+  color: $primary-100 !important;
 
   scroll-behavior: smooth;
 
   list-style: none;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 * {

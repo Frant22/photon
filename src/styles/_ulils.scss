@@ -49,3 +49,11 @@
     }
   }
 }
+
+.bi {
+  &-telegram, &-whatsapp {
+    &::before {
+      transform: scale(1.5);
+    }
+  }
+}

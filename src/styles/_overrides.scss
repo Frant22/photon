@@ -14,13 +14,13 @@
 
   &-outline {
     &-danger {
-      color: $black;
-      border-color: $black;
+      color: $black !important;
+      border-color: $black !important;
 
       &:hover {
-        color: $red-color;
-        border-color: $red-color;
-        background-color: white;
+        color: $red-color !important;
+        border-color: $red-color !important;
+        background-color: white !important;
       }
     }
 
@@ -43,6 +43,23 @@
   }
 }
 
-@media screen and (max-width: $small-tablet-screen) {
 
+.dropdown-item {
+  padding-top: .6rem !important;
+  padding-bottom: .6rem !important;
+
+  &:active {
+    background-color: $primary-10 !important;
+  }
+}
+
+
+@media screen and (max-width: $small-tablet-screen) {
+  .navbar {
+    &-collapse {
+      background-color: white;
+      margin: 0 -1.5rem;
+      padding: 0 1.5rem;
+    }
+  }
 }

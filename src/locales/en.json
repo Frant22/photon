@@ -1,0 +1,197 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "clients": "Clients"
+  },
+  "cta": {
+    "freePpcReview": "Book your free PPC consultation"
+  },
+  "hero": {
+    "title": "Is your advertising campaign delivering the maximum possible revenue?",
+    "subtitle": "We assist companies in scaling up by optimising their PPC spend for greater efficiency and stronger results.",
+    "cta": "Book your free PPC consultation",
+    "note": "No commitment & completely confidential"
+  },
+  "options": {
+    "title": "Most of your PPC budget is likely being wasted right now",
+    "description": "The tough truth: the overwhelming majority of PPC campaigns dramatically underdeliver. This usually translates to you paying far more than necessary for every lead and sale. In an industry overflowing with self-styled experts, it’s difficult to find someone you can truly rely on to meaningfully improve your ROI.",
+    "question": "“So what can you actually do?”",
+    "option1": {
+      "label": "option 1",
+      "title": "Handling PPC internally",
+      "intro": "When large sums are going into advertising, it’s natural to consider managing the campaigns in-house",
+      "pro1": {
+        "title": "Lower upfront cost",
+        "text": "- You save money immediately and keep full control over priorities."
+      },
+      "con1": {
+        "title": "Expertise is critical",
+        "text": "- PPC is technically demanding, and advertising platforms are built to encourage continuous higher spend."
+      },
+      "con2": {
+        "title": "Huge time demand",
+        "text": "- Your time has real value – should it be invested in learning complex ad systems or in developing your core business?"
+      }
+    },
+    "option2": {
+      "label": "option 2",
+      "title": "Working with a full-service digital agency",
+      "intro": "Many full-service agencies will encourage you to include PPC in their overall package",
+      "pro1": {
+        "title": "Almost no effort required",
+        "text": "- One partner manages everything; no need to search for specialists."
+      },
+      "con1": {
+        "title": "Marketing focus vs data focus",
+        "text": "- Most agencies excel at creative and branding work rather than relentless, numbers-driven ROI optimisation."
+      },
+      "con2": {
+        "title": "Shallow specialisation",
+        "text": "- Achieving the lowest cost per lead and highest conversion value usually requires deep, specialised knowledge that broad agencies rarely have."
+      }
+    },
+    "option3": {
+      "label": "option 3",
+      "title": "Employing a dedicated in-house PPC specialist",
+      "intro": "You can always closely monitor your in-house PPC specialist – could this be a stronger choice?",
+      "pro1": {
+        "title": "Strong alignment",
+        "text": "- Your own employee is naturally motivated to prioritise company success."
+      },
+      "con1": {
+        "title": "High long-term cost",
+        "text": "- ASalary, taxes, benefits, office costs, training and management overhead make this one of the most expensive routes."
+      },
+      "con2": {
+        "title": "Major risk",
+        "text": "- If performance is below expectations, revenue and sales suffer quietly – often for months before the issue becomes obvious."
+      }
+    }
+  },
+  "services": {
+    "kicker": "There is a better way",
+    "title": "Photon Digital - the agency with one single focus: dramatically increasing ROI from your ad spend",
+    "description": "No PR. No email. No SEO. Just paid ads. At Photon Digital, we ensure every cent of your budget works harder to drive leads and sales.",
+    "cta": "Book your free PPC consultation"
+  },
+  "about": {
+    "founder": {
+      "name": "Boris Kuzmenyuk",
+      "role": "Founder & Senior PPC Manager",
+      "quote1": "At Photon, we solve the biggest PPC challenge: turning ad spend into maximum revenue and profit.",
+      "quote2": "Here's why businesses worldwide choose us as partners — beyond just dedication."
+    },
+    "title": "Your specialist PPC team",
+    "description": "We manage high-volume campaigns for global brands and efficient accounts for growing businesses — consistently multiplying ROI, often more than 400%.",
+    "point1": "Team members have backgrounds in finance, engineering, and data analysis.",
+    "point2": "We use proprietary optimisation software exclusive to us.",
+    "point3": "We build close, trusted relationships with every client.",
+    "point4": "Fully remote setup keeps us agile and lets us deliver better value without extra overheads.",
+    "point5": "All decisions are reviewed by senior PPC experts.",
+    "point6": "We’re fully Google Ads certified",
+    "point7": "Top agencies regularly ask us to train their teams."
+  },
+  "boosts": {
+    "title": "How Photon Digital maximizing ad returns",
+    "subtitle": "At Photon, we're here for one thing: to squeeze your ad budget dry—of every last drop of ROI.",
+    "item1": {
+      "title": "Narrow Focus",
+      "text": "We don't spread ourselves thin. Our exclusive focus is your paid ad performance, ensuring every strategy is designed to drive real business outcomes."
+    },
+    "item2": {
+      "title": "Deep Experience",
+      "text": "Your account benefits from decades of specialized experience. It's managed directly by senior experts who have seen and solved every PPC challenge."
+    },
+    "item3": {
+      "title": "Unique Methods",
+      "text": "We combine custom-built technology with innovative tactics—a unique system designed to secure the best possible results from your budget."
+    },
+    "item4": {
+      "title": "Data-First Mindset",
+      "text": "We look beyond vanity metrics. Our deep data analysis targets the numbers that truly impact your revenue and growth."
+    },
+    "item5": {
+      "title": "Trusted Partner",
+      "text": "Your success is our success. We act as an extension of your team, constantly scouting for new opportunities and tactics to fuel your expansion."
+    },
+    "item6": {
+      "title": "Proactive Management",
+      "text": "We believe in constant evolution. Your campaigns are actively refined and optimized, never left on autopilot."
+    }
+  },
+  "start": {
+    "title": "How to get started",
+    "subtitle": "Ready to see what your ad budget is truly capable of?",
+    "step1": {
+      "label": "step 01",
+      "title": "Book your free audit",
+      "text": "We only accept accounts where we can deliver major improvements in ROI and sales. Start with our free, confidential, no-obligation review."
+    },
+    "step2": {
+      "label": "step 02",
+      "title": "Strategic account setup",
+      "text": "Poor structure often means lost sales opportunities from the beginning. We build solid, high-performing foundations right away."
+    },
+    "step3": {
+      "label": "step 03",
+      "title": "Continuous optimisation & growth",
+      "text": "We go beyond routine checks — actively testing, refining, and finding new ways to accelerate your revenue growth every month."
+    },
+    "cta": "Book your free review"
+  },
+  "whatWeDo": {
+    "title": "Platforms we optimise",
+    "subtitle": "At Photon, we turn your ad budget into maximum revenue. No drop of value left behind.",
+    "tool": {
+      "googleAds": "Google Ads",
+      "facebookAds": "Facebook Ads",
+      "googleShopping": "Google Shopping",
+      "bingAds": "Bing Ads",
+      "linkedinAds": "LinkedIn Ads",
+      "instagramAds": "Instagram Ads"
+    }
+  },
+  "work": {
+    "title": "Clients we partner with",
+    "subtitle": "We’re a small, specialized team, and we choose our clients carefully.",
+    "size": {
+      "title": "Scale",
+      "text": "We work with organizations of all sizes - managing monthly ad budgets of between $500 and $300,000"
+    },
+    "location": {
+      "title": "Geography",
+      "text": "Serving clients globally, with specialized expertise in the world's most valuable digital markets."
+    },
+    "credibility": {
+      "title": "Trust",
+      "text": "We work only with legitimate companies offering proven, high-quality products/services"
+    }
+  },
+  "clients": {
+    "title": "Our clients",
+    "placeholder": {
+      "alt": "placeholder"
+    }
+  },
+  "contact": {
+    "title": "\"Ready for the next step?\" Your 100% free, no-obligation performance review",
+    "bullet1": "Identify exactly where you're overpaying for leads and conversions",
+    "bullet2": "Get clear, actionable recommendations to improve advertising efficiency",
+    "bullet3": "Uncover hidden opportunities for more sales and revenue",
+    "bullet4": "See if we're the perfect long-term partner for your growth",
+    "form": {
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Your email",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Type your comment or question (optional)",
+      "cta": "Get your free PPC audit"
+    }
+  },
+  "languages": {
+    "ua": "Ukrainian",
+    "gb": "English"
+  }
+}
