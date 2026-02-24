@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prebuild": "rm -rf ./docs",
     "start": "parcel src/index.html src/en/index.html src/uk/index.html src/privacy-policy/en/index.html src/privacy-policy/uk/index.html --open",
-    "build": "parcel build src/index.html src/en/index.html src/uk/index.html src/privacy-policy/en/index.html src/privacy-policy/uk/index.html --dist-dir docs --public-url ./",
+    "build": "parcel build src/index.html src/en/index.html src/uk/index.html src/privacy-policy/en/index.html src/privacy-policy/uk/index.html --dist-dir docs --public-url /photon/",
     "lint-js": "eslint ./src",
     "lint-js:fix": "eslint ./src --fix",
     "lint-styles": "stylelint **/*.css **/*.scss",
