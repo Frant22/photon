@@ -1,0 +1,148 @@
+.case-studies {
+  min-height: 100vh;
+  background-color: #f4f5f7;
+
+  &__container {
+    max-width: 1008px;
+  }
+}
+
+.case-card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 28px;
+  border-radius: .375rem;
+  background-color: $white;
+  box-shadow: $bs-below;
+  transition: box-shadow $transition-time ease, transform $transition-time ease;
+
+  &__challenge {
+    margin: 0;
+    color: $primary-80;
+
+    strong {
+      color: $yellow-color;
+      font-weight: 700;
+    }
+  }
+
+  &__description {
+    margin: 0;
+    padding-top: 14px;
+    border-top: 1px solid $primary-10;
+    color: $primary-80;
+  }
+
+  &__metrics {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 12px;
+    align-items: end;
+    padding-top: 6px;
+  }
+
+  &__metric {
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    min-width: 0;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  &__metric-label,
+  &__main-metric-label {
+    color: #9ca3af;
+    // font-size: 12px;
+    font-weight: 600;
+    line-height: 1.4;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+  }
+
+  &__metric-value {
+    color: $primary-100;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.3;
+    white-space: nowrap;
+
+    span {
+      color: $primary-60;
+      font-size: 13px;
+      font-weight: 400;
+      margin: 0 4px;
+    }
+
+    b {
+      color: $primary-100;
+      font-weight: 700;
+    }
+  }
+
+  &__main-metric {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+    height: 100%;
+    text-align: right;
+  }
+
+  &__main-metric-value {
+    color: $yellow-color;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 1;
+  }
+
+  &__main-metric-label {
+    margin-top: 3px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .hero {
+    padding: 24px;
+
+    &__illustration {
+      svg {
+        width: 150px;
+      }
+    }
+  }
+
+  .case-card {
+    padding: 24px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .hero {
+    margin-bottom: 20px;
+
+    &__title {
+      font-size: 28px;
+    }
+
+    &__illustration {
+      svg {
+        width: 140px;
+      }
+    }
+  }
+
+  .case-card {
+    &__metrics {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    &__main-metric {
+      grid-column: 1 / -1;
+      align-items: flex-start;
+      padding-top: 8px;
+      text-align: left;
+    }
+  }
+}

@@ -190,6 +190,83 @@
       "cta": "Get your free PPC audit"
     }
   },
+  "case-studies": {
+    "title": "Success Stories · Proof of Growth",
+    "common": {
+      "challenge": "Challenge:",
+      "perMonth": "/mo"
+    },
+    "cards": {
+      "aromaDiffuser": {
+        "category": "E-commerce",
+        "title": "Aroma Diffuser Sales Growth",
+        "challenge": "High cost per purchase and unstable ROAS while scaling across multiple EU markets",
+        "description": "An e-commerce brand selling aroma diffusers struggled to scale profitably in Europe. We restructured campaigns, implemented smart bidding, and optimised product feeds.",
+        "metrics": {
+          "roas": {
+            "label": "ROAS Improvement"
+          },
+          "cpa": {
+            "label": "CPA Reduction"
+          },
+          "growth": {
+            "label": "Revenue Growth"
+          }
+        }
+      },
+      "autoParts": {
+        "category": "Automotive & E-commerce",
+        "title": "Auto Parts Revenue Scaling",
+        "challenge": "Low conversion rate and poor campaign structure across multiple product categories",
+        "description": "A Lithuanian auto parts store was struggling with inefficient campaigns and wasted budget. We rebuilt account structure, introduced segmentation by categories and intent, and scaled profitable campaigns.",
+        "metrics": {
+          "sales": {
+            "label": "Sales Increase"
+          },
+          "roas": {
+            "label": "ROAS"
+          },
+          "growth": {
+            "label": "Revenue Growth"
+          }
+        }
+      },
+      "psychologist": {
+        "category": "Healthcare & Services",
+        "title": "Lead Generation for Psychologist",
+        "challenge": "Expensive leads and low booking rate from Google Ads",
+        "description": "A private psychologist in Germany was overpaying for leads that didn't convert into clients. We rebuilt the funnel, improved targeting, and optimised landing pages.",
+        "metrics": {
+          "costPerLead": {
+            "label": "Cost per Lead"
+          },
+          "monthlyLeads": {
+            "label": "Monthly Leads"
+          },
+          "growth": {
+            "label": "Lead Growth"
+          }
+        }
+      },
+      "logistics": {
+        "category": "Logistics & B2B",
+        "title": "Freight & Logistics Growth",
+        "challenge": "High cost per lead and low-quality B2B inquiries",
+        "description": "A logistics company in Europe struggled with low-quality leads and inconsistent demand. We implemented intent-based campaigns and filtered traffic with smart segmentation.",
+        "metrics": {
+          "costPerLead": {
+            "label": "Cost per Lead"
+          },
+          "qualifiedLeads": {
+            "label": "Qualified Leads"
+          },
+          "growth": {
+            "label": "Lead Growth"
+          }
+        }
+      }
+    }
+  },
   "languages": {
     "ua": "Ukrainian",
     "gb": "English"

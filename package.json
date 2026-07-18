@@ -32,7 +32,9 @@
   },
   "homepage": "https://github.com/Frant22/vanilla-template#readme",
   "devDependencies": {
+    "@parcel/packager-raw-url": "^2.16.3",
     "@parcel/transformer-sass": "^2.16.3",
+    "@parcel/transformer-webmanifest": "^2.16.3",
     "bootstrap": "^5.3.8",
     "concurrently": "^6.0.2",
     "eslint": "^7.32.0",
