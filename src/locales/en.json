@@ -267,6 +267,63 @@
       }
     }
   },
+  "pricing": {
+    "title": "Digital advertising pricing plans",
+    "subtitle": "Choose a plan that fits your goals and budget",
+    "common": {
+      "perMonth": "/ month",
+      "primaryCta": "Get started",
+      "secondaryCta": "Contact us"
+    },
+    "cards": {
+      "starter": {
+        "title": "Starter",
+        "features": [
+          "Setup 1–2 campaigns (Search / PMax)",
+          "Keyword & negative keyword research",
+          "GA4 & Tag Manager installation",
+          "Basic advertising strategy"
+        ],
+        "hours": "4–6 hours of work per month",
+        "reporting": "Weekly check-in + report once a month"
+      },
+      "growth": {
+        "badge": "🔥 MOST POPULAR",
+        "title": "Growth",
+        "features": [
+          "Everything in Starter",
+          "3–5 campaigns (Search + Display / Shopping)",
+          "Remarketing setup",
+          "A/B ad testing"
+        ],
+        "hours": "8–12 hours of work per month",
+        "reporting": "Weekly optimization + 2 reports per month"
+      },
+      "business": {
+        "title": "Business",
+        "features": [
+          "Everything in Growth",
+          "Performance Max management",
+          "Performance account audit",
+          "Advertising strategy development"
+        ],
+        "hours": "15–20 hours of work per month",
+        "reporting": "2-3 optimizations per week · Report with recommendations"
+      },
+      "enterprise": {
+        "title": "Premium / Enterprise",
+        "price": "from $2500",
+        "features": [
+          "Full funnel (Search + Display + Shopping + YouTube)",
+          "Dedicated account manager",
+          "End-to-end ROI / CPA / ROAS analytics",
+          "Custom strategy for your business"
+        ],
+        "hours": "25+ hours of work per month",
+        "reporting": "Daily monitoring & optimization"
+      }
+    }
+  },
   "languages": {
     "ua": "Ukrainian",
     "gb": "English"
