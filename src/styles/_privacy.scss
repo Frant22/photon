@@ -1,0 +1,120 @@
+.privacy-page {
+  padding-top: 3rem;
+
+  .privacy-policy {
+    max-width: 900px;
+    margin: 0 auto;
+    color: $primary-90;
+
+    h1 {
+      font-size: 40px;
+      line-height: 1.3;
+      text-align: left;
+      margin-bottom: 1.5rem;
+    }
+
+    h2 {
+      font-size: 24px;
+      line-height: 1.4;
+      text-align: left;
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      color: $primary-100;
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 1.9;
+      margin-bottom: 1rem;
+    }
+
+    ul,
+    ol {
+      padding-left: 1.5rem;
+      margin-bottom: 1rem;
+
+      li {
+        line-height: 1.9;
+        margin-bottom: 0.5rem;
+        list-style: inherit;
+      }
+    }
+
+    ul {
+      list-style: disc;
+    }
+
+    ol {
+      list-style: decimal;
+    }
+
+    a {
+      color: $red-color !important;
+      text-decoration: underline !important;
+      overflow-wrap: anywhere;
+
+      &:hover {
+        color: $primary-100 !important;
+      }
+    }
+
+    .table-responsive {
+      margin: 1.5rem 0 2rem;
+    }
+
+    table {
+      font-size: 15px;
+      margin-bottom: 0;
+
+      th {
+        background-color: $primary-10;
+        color: $primary-100;
+        font-weight: 600;
+        white-space: nowrap;
+      }
+
+      th,
+      td {
+        line-height: 1.7;
+        vertical-align: top;
+      }
+    }
+
+    #CookieDeclarationContainer {
+      margin: 1.5rem 0;
+      overflow-x: auto;
+    }
+  }
+}
+
+@media screen and (max-width: $small-tablet-screen) {
+  .privacy-page {
+    padding-top: 2rem;
+
+    .privacy-policy {
+      h1 {
+        font-size: 26px;
+      }
+
+      h2 {
+        font-size: 20px;
+        margin-top: 2rem;
+      }
+
+      p,
+      ul li,
+      ol li {
+        font-size: 15px;
+        line-height: 1.8;
+      }
+
+      table {
+        font-size: 14px;
+
+        th {
+          white-space: normal;
+        }
+      }
+    }
+  }
+}

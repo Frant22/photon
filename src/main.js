@@ -4,11 +4,14 @@ const i18n = {
   translations: {},
   currentLang: 'en',
 
-  // strict detection: /en or /uk
+  // strict detection: /en, /uk and nested pages like /privacy-policy/uk/
   detectLanguage() {
-    const seg = (window.location.pathname.split('/')[1] || '').toLowerCase();
-    if (seg === 'uk') return 'uk';
-    return 'en';
+    const segments = window.location.pathname
+      .split('/')
+      .filter(Boolean)
+      .map((segment) => segment.toLowerCase());
+
+    return segments.includes('uk') ? 'uk' : 'en';
   },
 
   // Build a correct URL for locales for BOTH:

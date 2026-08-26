@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="uk">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8"/>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -9,8 +9,15 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-55CDZS24');</script>
   <!-- End Google Tag Manager -->
-  <title>Photon Digital - Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Photon Digital - Політика конфіденційності та Cookie</title>
   <link rel="stylesheet" href="../../styles.scss"/>
+  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96"/>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
+  <link rel="shortcut icon" href="/favicon.ico"/>
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
+  <meta name="apple-mobile-web-app-title" content="MyWebSite"/>
+  <link rel="manifest" href="/site.webmanifest"/>
 
   <!-- CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -19,6 +26,8 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 
   <script src="../../main.js" defer></script>
+  <!-- Текст сторінки береться з src/locales/privacy-uk.json -->
+  <script type="module" src="../privacy.js"></script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -28,28 +37,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <header id="header" class="header">
   <nav class="navbar navbar-expand-lg p-0">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/uk">
+      <a class="navbar-brand" href="/uk/">
         <img src="../../assets/images/logos/logo_black.svg" alt="Photon logo" class="logo">
       </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav d-flex align-items-center ms-auto mb-2 mb-lg-0">
           <li class="nav__item">
-            <a onclick="event.preventDefault(); location.href='/uk/#services';" data-i18n="nav.services" aria-current="page">
-              Послуги
-            </a>
+            <a href="/uk/#services" data-i18n="nav.services">Послуги</a>
           </li>
           <li class="nav__item">
-            <a onclick="event.preventDefault(); location.href='/uk/#about';" data-i18n="nav.about" aria-current="page">
-              Про нас
-            </a>
+            <a href="/uk/#about" data-i18n="nav.about">Про нас</a>
           </li>
           <li class="nav__item">
-            <a onclick="event.preventDefault(); location.href='/uk/#clients';" data-i18n="nav.clients" aria-current="page">
-              Клієнти
-            </a>
+            <a href="/uk/#clients" data-i18n="nav.clients">Клієнти</a>
           </li>
           <li class="dropdown mx-3 py-2 py-md-0">
             <a href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -57,21 +61,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               <li>
-                <a class="dropdown-item d-flex align-items-center" href="/uk/">
+                <a class="dropdown-item d-flex align-items-center" href="/privacy-policy/uk/">
                   <span class="fi fi-ua rounded-circle me-2"></span><span data-i18n="languages.ua">Українська</span>
                 </a>
               </li>
               <li>
-                <a class="dropdown-item d-flex align-items-center" href="/en/">
+                <a class="dropdown-item d-flex align-items-center" href="/privacy-policy/en/">
                   <span class="fi fi-gb rounded-circle me-2"></span><span data-i18n="languages.gb">Англійська</span>
                 </a>
               </li>
             </ul>
           </li>
-          <li class="btn btn-outline-danger mt-2 mt-md-0">
-            <a onclick="event.preventDefault(); location.href='/uk/#contact-us';" data-i18n="cta.freePpcReview">
-              Отримати безкоштовну консультацію
-            </a>
+          <li class="mt-2 mt-md-0">
+            <a href="/uk/#contact-us" class="btn btn-outline-danger" data-i18n="cta.freePpcReview">Безкоштовний PPC-аудит</a>
           </li>
         </ul>
       </div>
@@ -80,331 +82,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </header>
 
 <main>
-  <section class="privacy-policy">
+  <section class="section privacy-page">
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <h2>ПОЛІТИКА КОНФІДЕНЦІЙНОСТІ ТА ФАЙЛІВ COOKIE</h2>
-
-          <p>
-            <strong>Photon Digital</strong><br />
-            Останнє оновлення: 25 лютого 2026 року
-          </p>
-
-          <h3>1. Вступ</h3>
-
-          <p>
-            Ця Політика конфіденційності та файлів cookie пояснює, як Photon Digital («ми», «нас», «наш»)
-            збирає, використовує, зберігає та захищає персональні дані користувачів сайту
-            <a href="http://photon-digital.com">http://photon-digital.com</a>
-            та під час надання послуг цифрового агентства.
-          </p>
-
-          <p>Ми обробляємо дані відповідно до:</p>
-
-          <ul>
-            <li>Загального регламенту захисту даних (GDPR, ЄС) 2016/679</li>
-            <li>Директиви ePrivacy</li>
-            <li>Застосовного законодавства</li>
-          </ul>
-
-          <p>
-            Використовуючи сайт або звертаючись до нас, ви підтверджуєте ознайомлення з цією Політикою.
-          </p>
-
-          <h3>2. Контролер даних</h3>
-
-          <p>
-            Photon Digital<br />
-            Берестейський проспект, 91<br />
-            Київ, 03115, Україна<br />
-            Email:
-            <a href="mailto:privacy@photon-digital.com">privacy@photon-digital.com</a>
-          </p>
-
-          <p>
-            Ми виступаємо контролером даних для персональних даних, що збираються через наш сайт
-            та під час надання послуг.
-          </p>
-
-          <h3>3. Категорії суб’єктів даних</h3>
-
-          <p>Ми обробляємо персональні дані таких осіб:</p>
-
-          <ul>
-            <li>Відвідувачі сайту</li>
-            <li>Потенційні клієнти</li>
-            <li>Клієнти</li>
-            <li>Бізнес-партнери</li>
-          </ul>
-
-          <h3>4. Які персональні дані ми збираємо</h3>
-
-          <h4>4.1. Дані, надані безпосередньо</h4>
-
-          <ul>
-            <li>Ім’я та прізвище</li>
-            <li>Email</li>
-            <li>Номер телефону</li>
-            <li>Дані компанії</li>
-            <li>Інформація про проєкт</li>
-            <li>Будь-які дані, надані через форму зворотного зв’язку або email</li>
-          </ul>
-
-          <h4>4.2. Дані, що збираються автоматично</h4>
-
-          <ul>
-            <li>IP-адреса</li>
-            <li>Тип та версія браузера</li>
-            <li>Тип пристрою та ОС</li>
-            <li>Переглянуті сторінки та час на сайті</li>
-            <li>Джерело переходу (referrer)</li>
-            <li>Ідентифікатори cookie</li>
-            <li>Дані взаємодії з рекламою та аналітикою</li>
-          </ul>
-
-          <h4>4.3. Дані від третіх сторін</h4>
-
-          <ul>
-            <li>Google Analytics (агреговані звіти)</li>
-            <li>Google Ads (ремаркетинг, конверсії)</li>
-          </ul>
-
-          <p>Ми не обробляємо чутливі (спеціальні) категорії даних.</p>
-
-          <h3>5. Правові підстави обробки (Art. 6 GDPR)</h3>
-
-          <ul>
-            <li>
-              Згода (Art. 6(1)(a)) — для маркетингових email, персоналізованої реклами та несуттєвих cookie
-            </li>
-
-            <li>
-              Виконання договору (Art. 6(1)(b)) — для надання послуг та відповіді на запити
-            </li>
-
-            <li>
-              Законний інтерес (Art. 6(1)(f)) — для аналітики, оптимізації сайту,
-              безпеки та запобігання шахрайству
-            </li>
-
-            <li>
-              Юридичний обов’язок (Art. 6(1)(c)) — для податкових або регуляторних вимог
-            </li>
-          </ul>
-
-          <p>
-            Відсутність необхідних даних може перешкоджати наданню послуг.
-          </p>
-
-          <h3>6. Цілі обробки персональних даних</h3>
-
-          <ul>
-            <li>Надання послуг та відповідь на запити</li>
-            <li>Аналіз трафіку сайту та поведінки користувачів</li>
-            <li>Проведення рекламних кампаній (Google Ads)</li>
-            <li>Покращення контенту та UX сайту</li>
-            <li>Забезпечення безпеки та запобігання шахрайству</li>
-          </ul>
-
-          <h3>7. Сторонні сервіси та інтеграції</h3>
-
-          <p>Ми використовуємо надійні сторонні сервіси, зокрема:</p>
-
-          <ul>
-            <li>Google Analytics</li>
-            <li>Google Ads</li>
-            <li>Google Consent Mode v2</li>
-            <li>Хостинг-провайдери</li>
-            <li>Платіжні провайдери (якщо застосовується)</li>
-          </ul>
-
-          <p>
-            Google може виступати як процесор даних або як окремий контролер
-            відповідно до своєї політики.
-          </p>
-
-          <h3>8. Міжнародні передачі даних</h3>
-
-          <p>
-            Персональні дані можуть оброблятися в Україні та за межами ЄЕЗ,
-            включно зі США.
-          </p>
-
-          <p>Ми застосовуємо:</p>
-
-          <ul>
-            <li>Стандартні договірні положення (SCC)</li>
-            <li>EU-U.S. Data Privacy Framework (DPF), якщо застосовно</li>
-            <li>Інші гарантії відповідно до GDPR</li>
-          </ul>
-
-          <p>
-            Ви можете запросити інформацію про застосовані заходи безпеки.
-          </p>
-
-          <h3>9. Зберігання даних</h3>
-
-          <ul>
-            <li>Контактні дані — до 5 років після останньої взаємодії</li>
-            <li>Аналітичні дані (Google Analytics) — до 26 місяців</li>
-            <li>Додаткове зберігання — відповідно до закону</li>
-          </ul>
-
-          <h3>10. Ваші права за GDPR</h3>
-
-          <p>Ви маєте право на:</p>
-
-          <ul>
-            <li>Доступ до своїх даних</li>
-            <li>Виправлення неточностей</li>
-            <li>Видалення даних (“право бути забутим”)</li>
-            <li>Обмеження обробки</li>
-            <li>Заперечення проти обробки</li>
-            <li>Портативність даних</li>
-            <li>Відкликання згоди</li>
-          </ul>
-
-          <p>
-            Скаргу можна подати до наглядового органу в країні ЄЕЗ.
-            Запити обробляються протягом одного місяця.
-          </p>
-
-          <h3>11. Безпека даних</h3>
-
-          <p>
-            Ми застосовуємо відповідні технічні та організаційні заходи:
-          </p>
-
-          <ul>
-            <li>Шифрування</li>
-            <li>Контроль доступу</li>
-            <li>Регулярні аудити</li>
-          </ul>
-
-          <p>Жодна система не гарантує 100% безпеку.</p>
-
-          <h3>12. Конфіденційність дітей</h3>
-
-          <p>
-            Сайт та послуги не призначені для осіб молодше 16 років.
-          </p>
-
-          <h3>13. Файли Cookie</h3>
-
-          <h4>13.1. Що таке Cookie</h4>
-
-          <p>
-            Cookies — невеликі текстові файли, що зберігаються на вашому пристрої
-            при відвідуванні сайту.
-          </p>
-
-          <p>
-            Ми використовуємо cookie відповідно до GDPR та ePrivacy Directive.
-          </p>
-
-          <h4>13.2. Типи Cookie</h4>
-
-          <ul>
-            <li>
-              Обов’язкові — необхідні для функціонування сайту (законний інтерес)
-            </li>
-
-            <li>
-              Аналітичні — Google Analytics, IP анонімізація (згода)
-            </li>
-
-            <li>
-              Рекламні — Google Ads, ремаркетинг, персоналізація (згода)
-            </li>
-          </ul>
-
-          <h4>13.3. Google Consent Mode v2</h4>
-
-          <p>
-            Несуттєві cookie та трекінг активуються лише після надання згоди:
-          </p>
-
-          <ul>
-            <li>analytics_storage</li>
-            <li>ad_storage</li>
-            <li>ad_user_data</li>
-            <li>ad_personalization</li>
-          </ul>
-
-          <h4>13.4. Приклади cookie</h4>
-
-          <table>
-            <thead>
-            <tr>
-              <th>Cookie Name</th>
-              <th>Провайдер</th>
-              <th>Мета</th>
-              <th>Термін</th>
-            </tr>
-            </thead>
-
-            <tbody>
-            <tr>
-              <td>_ga</td>
-              <td>Google</td>
-              <td>Аналітика</td>
-              <td>24 місяці</td>
-            </tr>
-
-            <tr>
-              <td>ga*</td>
-              <td>Google</td>
-              <td>Сесійна аналітика</td>
-              <td>24 місяці</td>
-            </tr>
-
-            <tr>
-              <td>_gcl_au</td>
-              <td>Google</td>
-              <td>Відстеження конверсій</td>
-              <td>90 днів</td>
-            </tr>
-            </tbody>
-          </table>
-
-          <h4>13.5. Керування cookie</h4>
-
-          <p>
-            Ви можете відкликати або змінити згоду через банер cookie
-            або налаштування браузера.
-          </p>
-
-          <h3>14. Більше інформації</h3>
-
-          <p>
-            Сподіваємося, ця Політика допомогла зрозуміти ваші права
-            та наші обов’язки щодо обробки персональних даних.
-          </p>
-
-          <p>
-            Якщо залишилися питання, звертайтеся на:
-            <a href="mailto:privacy@photon-digital.com">privacy@photon-digital.com</a>.
-          </p>
-
-          <p>
-            Ця Політика конфіденційності та cookie підготовлена на основі
-            GDPR (2016/679) та інших застосовних законодавств.
-          </p>
+          <!-- Заповнюється з src/locales/privacy-uk.json скриптом src/privacy-policy/privacy.js -->
+          <div id="privacy-content"></div>
+          <noscript>
+            <p>Увімкніть JavaScript, щоб переглянути Політику конфіденційності та Cookie, або напишіть нам на
+              <a href="mailto:info@photon-digital.com">info@photon-digital.com</a>, і ми надішлемо копію.</p>
+          </noscript>
         </div>
       </div>
     </div>
   </section>
+  <div class="float-buttons">
+    <a href="https://t.me/Photon_Digital" class="icon-filled icon-filled-xl"><i class="bi bi-telegram text-primary"></i></a>
+    <a class="icon-filled icon-filled-xl" href="https://wa.me/380687083241"><i class="bi bi-whatsapp text-success"></i></a>
+  </div>
 </main>
 
-<footer class="footer bg-primary-10">
+<footer class="footer">
   <div class="footer__content">
     <ul class="nav">
-      <li class="nav__item"><a href="/en/" data-i18n="languages.ua">Англійська</a></li>
-      <li class="nav__item"><a href="/privacy-policy/" data-i18n="languages.ua">Privacy Policy</a></li>
-      <li class="nav__item"><a href="https://t.me/Photon_Digital" class="icon-filled"><i class="bi bi-telegram"></i></a>
-      </li>
-      <li class="nav__item"><a class="icon-filled"><i class="bi bi-whatsapp"></i></a></li>
+      <li class="nav__item"><a href="/uk/" data-i18n="footer.home">Головна</a></li>
+      <li class="nav__item"><a href="/privacy-policy/en/" data-i18n="languages.gb">Англійська</a></li>
+      <li class="me-2"><a href="https://t.me/Photon_Digital" class="icon-filled"><i
+              class="bi bi-telegram text-primary"></i></a></li>
+      <li><a class="icon-filled" href="https://wa.me/380687083241"><i class="bi bi-whatsapp text-success"></i></a></li>
     </ul>
   </div>
   <p class="paragraph-4 col-primary-60">Photon Digital Copyright © 2026 All Rights Reserved</p>

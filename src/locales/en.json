@@ -4,194 +4,198 @@
     "about": "About",
     "clients": "Clients"
   },
+  "footer": {
+    "home": "Home",
+    "privacyPolicy": "Privacy Policy"
+  },
   "cta": {
-    "freePpcReview": "Book your free PPC consultation"
+    "freePpcReview": "Free PPC audit"
   },
   "hero": {
-    "title": "Is your advertising campaign delivering the maximum possible revenue?",
-    "subtitle": "We assist companies in scaling up by optimising their PPC spend for greater efficiency and stronger results.",
-    "cta": "Book your free PPC consultation",
-    "note": "No commitment & completely confidential"
+    "title": "More Leads, Sales & Revenue from Google Ads",
+    "subtitle": "Specialist PPC management focused on lead quality, CPA, ROAS, sales and revenue across Search, Performance Max, Shopping and paid social.",
+    "cta": "Free PPC audit",
+    "note": "No obligation. We’ll show you what we would improve."
   },
   "options": {
-    "title": "Most of your PPC budget is likely being wasted right now",
-    "description": "The tough truth: the overwhelming majority of PPC campaigns dramatically underdeliver. This usually translates to you paying far more than necessary for every lead and sale. In an industry overflowing with self-styled experts, it’s difficult to find someone you can truly rely on to meaningfully improve your ROI.",
-    "question": "“So what can you actually do?”",
+    "title": "The goal is not simply to manage PPC — it is to improve the business result",
+    "description": "As ad spend grows, small weaknesses in measurement, campaign structure or bidding can become expensive. What matters is having someone who can consistently identify wasted spend, improve conversion quality and turn more of the budget into customers.",
+    "question": "Which PPC setup fits your business?",
     "option1": {
       "label": "option 1",
-      "title": "Handling PPC internally",
-      "intro": "When large sums are going into advertising, it’s natural to consider managing the campaigns in-house",
+      "title": "Manage PPC in-house",
+      "intro": "Maximum control and minimal external cost — if your team has the time and specialist PPC expertise.",
       "pro1": {
-        "title": "Lower upfront cost",
-        "text": "- You save money immediately and keep full control over priorities."
+        "title": "Full control",
+        "text": "- You set the priorities, budgets and pace of decision-making."
       },
       "con1": {
-        "title": "Expertise is critical",
-        "text": "- PPC is technically demanding, and advertising platforms are built to encourage continuous higher spend."
+        "title": "A steep expertise curve",
+        "text": "- Google Ads, Performance Max and measurement evolve quickly; weak signals or structure can quietly increase CPA."
       },
       "con2": {
-        "title": "Huge time demand",
-        "text": "- Your time has real value – should it be invested in learning complex ad systems or in developing your core business?"
+        "title": "A serious time commitment",
+        "text": "- Search terms, testing, feeds, tracking and optimisation require ongoing attention, not a one-off setup."
       }
     },
     "option2": {
       "label": "option 2",
-      "title": "Working with a full-service digital agency",
-      "intro": "Many full-service agencies will encourage you to include PPC in their overall package",
+      "title": "Work with a full-service agency",
+      "intro": "Convenient when you want one partner covering several marketing disciplines.",
       "pro1": {
-        "title": "Almost no effort required",
-        "text": "- One partner manages everything; no need to search for specialists."
+        "title": "One partner across channels",
+        "text": "- Fewer suppliers and simpler coordination across your wider marketing activity."
       },
       "con1": {
-        "title": "Marketing focus vs data focus",
-        "text": "- Most agencies excel at creative and branding work rather than relentless, numbers-driven ROI optimisation."
+        "title": "PPC is one of many services",
+        "text": "- Attention is shared across PPC, SEO, creative, content and other services."
       },
       "con2": {
-        "title": "Shallow specialisation",
-        "text": "- Achieving the lowest cost per lead and highest conversion value usually requires deep, specialised knowledge that broad agencies rarely have."
+        "title": "Depth of PPC expertise can vary",
+        "text": "- For complex accounts, it matters who makes the decisions and how closely they work with conversion and revenue data."
       }
     },
     "option3": {
       "label": "option 3",
-      "title": "Employing a dedicated in-house PPC specialist",
-      "intro": "You can always closely monitor your in-house PPC specialist – could this be a stronger choice?",
+      "title": "Hire an in-house PPC specialist",
+      "intro": "A strong model when your business needs a specialist embedded in the team every day.",
       "pro1": {
-        "title": "Strong alignment",
-        "text": "- Your own employee is naturally motivated to prioritise company success."
+        "title": "Deep business knowledge",
+        "text": "- An in-house specialist works closely with your team and can develop a detailed understanding of the product, processes and priorities."
       },
       "con1": {
-        "title": "High long-term cost",
-        "text": "- ASalary, taxes, benefits, office costs, training and management overhead make this one of the most expensive routes."
+        "title": "Higher fixed cost",
+        "text": "- Salary, taxes, training and tools create a fixed cost regardless of how much specialist work is needed."
       },
       "con2": {
-        "title": "Major risk",
-        "text": "- If performance is below expectations, revenue and sales suffer quietly – often for months before the issue becomes obvious."
+        "title": "Single-person dependency",
+        "text": "- Performance depends heavily on one person's experience, capacity and ability to challenge their own assumptions."
       }
     }
   },
   "services": {
-    "kicker": "There is a better way",
-    "title": "Photon Digital - the agency with one single focus: dramatically increasing ROI from your ad spend",
-    "description": "No PR. No email. No SEO. Just paid ads. At Photon Digital, we ensure every cent of your budget works harder to drive leads and sales.",
-    "cta": "Book your free PPC consultation"
+    "kicker": "Specialist PPC agency",
+    "title": "Google Ads & paid media managed by specialists",
+    "description": "We focus on paid media, measurement and conversions. We identify wasted spend, improve the signals used by bidding algorithms and scale the campaigns that create real commercial value.",
+    "cta": "Review my account"
   },
   "about": {
     "founder": {
       "name": "Boris Kuzmenyuk",
       "role": "Founder & Senior PPC Manager",
-      "quote1": "At Photon, we solve the biggest PPC challenge: turning ad spend into maximum revenue and profit.",
-      "quote2": "Here's why businesses worldwide choose us as partners — beyond just dedication."
+      "quote1": "I judge PPC by the quality of the leads, sales and revenue it creates — not by how good the dashboard looks.",
+      "quote2": "The job is to find where budget is being lost, fix the measurement and scale what genuinely works."
     },
-    "title": "Your specialist PPC team",
-    "description": "We manage high-volume campaigns for global brands and efficient accounts for growing businesses — consistently multiplying ROI, often more than 400%.",
-    "point1": "Team members have backgrounds in finance, engineering, and data analysis.",
-    "point2": "We use proprietary optimisation software exclusive to us.",
-    "point3": "We build close, trusted relationships with every client.",
-    "point4": "Fully remote setup keeps us agile and lets us deliver better value without extra overheads.",
-    "point5": "All decisions are reviewed by senior PPC experts.",
-    "point6": "We’re fully Google Ads certified",
-    "point7": "Top agencies regularly ask us to train their teams."
+    "title": "Your account stays with experienced PPC specialists — from strategy to optimisation",
+    "description": "The people making the strategic decisions stay involved in the account. You know what is changing, why it is changing and how it is expected to improve CPA, ROAS, lead quality and revenue.",
+    "point1": "Experienced PPC specialists stay directly involved in strategy, measurement and key account decisions.",
+    "point2": "We optimise around CPA, ROAS, lead quality, sales and revenue — not isolated vanity metrics.",
+    "point3": "GA4, Google Tag Manager, Consent Mode and conversion tracking are treated as one measurement system for paid media.",
+    "point4": "We work across Search, Performance Max, Google Shopping, Microsoft Advertising and paid social.",
+    "point5": "You can see what we change, why we change it and what result each decision is intended to improve.",
+    "point6": "Our Google Ads expertise is supported by current platform certifications.",
+    "point7": "We do not automatically hand your account to junior specialists after the engagement begins."
   },
   "boosts": {
-    "title": "How Photon Digital maximizing ad returns",
-    "subtitle": "At Photon, we're here for one thing: to squeeze your ad budget dry—of every last drop of ROI.",
+    "title": "What we improve to turn more ad spend into customers",
+    "subtitle": "We prioritise the parts of the account that can materially affect lead quality, CPA, ROAS, sales and revenue.",
     "item1": {
-      "title": "Narrow Focus",
-      "text": "We don't spread ourselves thin. Our exclusive focus is your paid ad performance, ensuring every strategy is designed to drive real business outcomes."
+      "title": "Wasted spend",
+      "text": "We identify campaigns, search terms, audiences, placements and segments that consume budget without enough commercial return."
     },
     "item2": {
-      "title": "Deep Experience",
-      "text": "Your account benefits from decades of specialized experience. It's managed directly by senior experts who have seen and solved every PPC challenge."
+      "title": "Conversion quality",
+      "text": "We review GA4, Google Tag Manager and primary conversions so Smart Bidding and Performance Max learn from the right signals."
     },
     "item3": {
-      "title": "Unique Methods",
-      "text": "We combine custom-built technology with innovative tactics—a unique system designed to secure the best possible results from your budget."
+      "title": "Campaign structure",
+      "text": "We assess budgets, bidding, keywords, ads, feeds and campaign interaction to remove structural limits on performance."
     },
     "item4": {
-      "title": "Data-First Mindset",
-      "text": "We look beyond vanity metrics. Our deep data analysis targets the numbers that truly impact your revenue and growth."
+      "title": "Lead quality",
+      "text": "We look beyond form fills and calls to the enquiries that have a realistic chance of becoming customers."
     },
     "item5": {
-      "title": "Trusted Partner",
-      "text": "Your success is our success. We act as an extension of your team, constantly scouting for new opportunities and tactics to fuel your expansion."
+      "title": "High-impact tests",
+      "text": "We prioritise hypotheses that can materially improve the business result instead of filling the account with low-impact activity."
     },
     "item6": {
-      "title": "Proactive Management",
-      "text": "We believe in constant evolution. Your campaigns are actively refined and optimized, never left on autopilot."
+      "title": "Scaling",
+      "text": "We increase investment where the data supports it — not simply because an ad platform recommends a higher budget."
     }
   },
   "start": {
-    "title": "How to get started",
-    "subtitle": "Ready to see what your ad budget is truly capable of?",
+    "title": "Start with a free PPC audit",
+    "subtitle": "We review the account, show you the biggest opportunities and give you a clear order of priorities. Then you decide whether working together makes sense.",
     "step1": {
       "label": "step 01",
-      "title": "Book your free audit",
-      "text": "We only accept accounts where we can deliver major improvements in ROI and sales. Start with our free, confidential, no-obligation review."
+      "title": "We review the account and measurement",
+      "text": "We analyse spend, Search, Performance Max, Shopping, campaign structure, conversions and measurement."
     },
     "step2": {
       "label": "step 02",
-      "title": "Strategic account setup",
-      "text": "Poor structure often means lost sales opportunities from the beginning. We build solid, high-performing foundations right away."
+      "title": "You get a prioritised action plan",
+      "text": "We show where performance is being lost, what should be fixed first and which changes have the strongest business case."
     },
     "step3": {
       "label": "step 03",
-      "title": "Continuous optimisation & growth",
-      "text": "We go beyond routine checks — actively testing, refining, and finding new ways to accelerate your revenue growth every month."
+      "title": "We decide what happens next",
+      "text": "If we see meaningful upside and a strong fit, we build the next-step plan. If not, you still leave with useful findings."
     },
-    "cta": "Book your free review"
+    "cta": "Free PPC audit"
   },
   "whatWeDo": {
-    "title": "Platforms we optimise",
-    "subtitle": "At Photon, we turn your ad budget into maximum revenue. No drop of value left behind.",
+    "title": "Google Ads, Performance Max, Shopping & Paid Social",
+    "subtitle": "One performance framework across channels: reliable measurement, controlled spend and optimisation around qualified leads, sales and revenue.",
     "tool": {
       "googleAds": "Google Ads",
       "facebookAds": "Facebook Ads",
       "googleShopping": "Google Shopping",
-      "bingAds": "Bing Ads",
+      "bingAds": "Microsoft Advertising",
       "linkedinAds": "LinkedIn Ads",
       "instagramAds": "Instagram Ads"
     }
   },
   "work": {
-    "title": "Clients we partner with",
-    "subtitle": "We’re a small, specialized team, and we choose our clients carefully.",
+    "title": "For businesses that measure PPC by leads, sales and revenue",
+    "subtitle": "E-commerce, lead generation, B2B and international advertising accounts.",
     "size": {
       "title": "Scale",
-      "text": "We work with organizations of all sizes - managing monthly ad budgets of between $500 and $300,000"
+      "text": "We work with both focused growth accounts and complex multi-market PPC programmes."
     },
     "location": {
       "title": "Geography",
-      "text": "Serving clients globally, with specialized expertise in the world's most valuable digital markets."
+      "text": "We work with businesses in Ukraine and international markets, with a particular focus on Europe and English-speaking markets."
     },
     "credibility": {
-      "title": "Trust",
-      "text": "We work only with legitimate companies offering proven, high-quality products/services"
+      "title": "Partnership",
+      "text": "We do our best work when advertising data can be connected with meaningful business outcomes rather than platform metrics alone."
     }
   },
   "clients": {
-    "title": "Our clients",
+    "title": "Clients and projects we've worked with",
     "placeholder": {
-      "alt": "placeholder"
+      "alt": "Photon Digital client logo"
     }
   },
   "contact": {
-    "title": "\"Ready for the next step?\" Your 100% free, no-obligation performance review",
-    "bullet1": "Identify exactly where you're overpaying for leads and conversions",
-    "bullet2": "Get clear, actionable recommendations to improve advertising efficiency",
-    "bullet3": "Uncover hidden opportunities for more sales and revenue",
-    "bullet4": "See if we're the perfect long-term partner for your growth",
+    "title": "See where your Google Ads can generate more qualified leads and revenue",
+    "bullet1": "Where budget is being spent without enough commercial return",
+    "bullet2": "Whether GA4, GTM and conversion tracking are giving Google the right signals",
+    "bullet3": "What is driving CPA, ROAS and lead quality",
+    "bullet4": "Which changes should come first — before you increase spend",
     "form": {
       "nameLabel": "Name",
       "namePlaceholder": "Your name",
       "emailLabel": "Email",
       "emailPlaceholder": "Your email",
       "messageLabel": "Message",
-      "messagePlaceholder": "Type your comment or question (optional)",
-      "cta": "Get your free PPC audit"
+      "messagePlaceholder": "Website, ad spend or a short note about your goal (optional)",
+      "cta": "Request free audit"
     }
   },
   "case-studies": {
-    "title": "Success Stories · Proof of Growth",
+    "title": "Google Ads & PPC Case Studies: Leads, ROAS & Revenue",
     "common": {
       "challenge": "Challenge:",
       "perMonth": "/mo"
@@ -199,9 +203,9 @@
     "cards": {
       "aromaDiffuser": {
         "category": "E-commerce",
-        "title": "Aroma Diffuser Sales Growth",
+        "title": "Google Ads for E-commerce: Scaling Across EU Markets",
         "challenge": "High cost per purchase and unstable ROAS while scaling across multiple EU markets",
-        "description": "An e-commerce brand selling aroma diffusers struggled to scale profitably in Europe. We restructured campaigns, implemented smart bidding, and optimised product feeds.",
+        "description": "We restructured campaigns, improved product feeds and refined Smart Bidding to stabilise ROAS while scaling across several EU markets.",
         "metrics": {
           "roas": {
             "label": "ROAS Improvement"
@@ -216,9 +220,9 @@
       },
       "autoParts": {
         "category": "Automotive & E-commerce",
-        "title": "Auto Parts Revenue Scaling",
+        "title": "Google Shopping & PPC for an Auto Parts Retailer",
         "challenge": "Low conversion rate and poor campaign structure across multiple product categories",
-        "description": "A Lithuanian auto parts store was struggling with inefficient campaigns and wasted budget. We rebuilt account structure, introduced segmentation by categories and intent, and scaled profitable campaigns.",
+        "description": "We rebuilt the account structure and redirected budget towards product categories and segments with stronger commercial performance.",
         "metrics": {
           "sales": {
             "label": "Sales Increase"
@@ -233,9 +237,9 @@
       },
       "psychologist": {
         "category": "Healthcare & Services",
-        "title": "Lead Generation for Psychologist",
+        "title": "Google Ads for a Private Practice in Germany",
         "challenge": "Expensive leads and low booking rate from Google Ads",
-        "description": "A private psychologist in Germany was overpaying for leads that didn't convert into clients. We rebuilt the funnel, improved targeting, and optimised landing pages.",
+        "description": "We reviewed the funnel, targeting and landing pages to reduce CPL and increase the share of enquiries with genuine booking intent.",
         "metrics": {
           "costPerLead": {
             "label": "Cost per Lead"
@@ -250,9 +254,9 @@
       },
       "logistics": {
         "category": "Logistics & B2B",
-        "title": "Freight & Logistics Growth",
+        "title": "B2B Google Ads for a European Logistics Company",
         "challenge": "High cost per lead and low-quality B2B inquiries",
-        "description": "A logistics company in Europe struggled with low-quality leads and inconsistent demand. We implemented intent-based campaigns and filtered traffic with smart segmentation.",
+        "description": "We tightened commercial intent, filtered irrelevant traffic and focused budget on search demand more likely to produce qualified B2B enquiries.",
         "metrics": {
           "costPerLead": {
             "label": "Cost per Lead"
@@ -268,24 +272,24 @@
     }
   },
   "pricing": {
-    "title": "Digital advertising pricing plans",
-    "subtitle": "Choose a plan that fits your goals and budget",
+    "title": "PPC management matched to account complexity",
+    "subtitle": "The right level of management depends on campaign complexity, markets, budget, measurement and the pace of testing and scaling.",
     "common": {
       "perMonth": "/ month",
-      "primaryCta": "Get started",
+      "primaryCta": "Discuss my account",
       "secondaryCta": "Contact us"
     },
     "cards": {
       "starter": {
         "title": "Starter",
         "features": [
-          "Setup 1–2 campaigns (Search / PMax)",
-          "Keyword & negative keyword research",
-          "GA4 & Tag Manager installation",
-          "Basic advertising strategy"
+          "Setup and management of 1–2 campaigns (Search / Performance Max)",
+          "Keyword, search term and negative keyword management",
+          "Core GA4 & Google Tag Manager setup",
+          "PPC strategy aligned with business goals"
         ],
-        "hours": "4–6 hours of work per month",
-        "reporting": "Weekly check-in + report once a month"
+        "hours": "For focused accounts with a simple campaign structure",
+        "reporting": "Senior-led optimisation + monthly performance review"
       },
       "growth": {
         "badge": "🔥 MOST POPULAR",
@@ -293,39 +297,63 @@
         "features": [
           "Everything in Starter",
           "3–5 campaigns (Search + Display / Shopping)",
-          "Remarketing setup",
-          "A/B ad testing"
+          "Remarketing and audience signals",
+          "Ongoing ad and hypothesis testing"
         ],
-        "hours": "8–12 hours of work per month",
-        "reporting": "Weekly optimization + 2 reports per month"
+        "hours": "For growing accounts across several campaign types",
+        "reporting": "Weekly optimisation + regular performance review"
       },
       "business": {
         "title": "Business",
         "features": [
           "Everything in Growth",
-          "Performance Max management",
-          "Performance account audit",
-          "Advertising strategy development"
+          "Advanced Performance Max management",
+          "Full advertising account audit",
+          "Scaling and budget allocation strategy"
         ],
-        "hours": "15–20 hours of work per month",
-        "reporting": "2-3 optimizations per week · Report with recommendations"
+        "hours": "For more complex accounts with active scaling",
+        "reporting": "Multiple optimisation cycles per week + strategic recommendations"
       },
       "enterprise": {
         "title": "Premium / Enterprise",
         "price": "from $2500",
         "features": [
-          "Full funnel (Search + Display + Shopping + YouTube)",
-          "Dedicated account manager",
-          "End-to-end ROI / CPA / ROAS analytics",
-          "Custom strategy for your business"
+          "Multi-channel paid media (Search + Display + Shopping + YouTube)",
+          "Dedicated senior PPC lead",
+          "End-to-end ROI / CPA / ROAS and conversion-quality analysis",
+          "Custom strategy for complex or multi-market accounts"
         ],
-        "hours": "25+ hours of work per month",
-        "reporting": "Daily monitoring & optimization"
+        "hours": "For complex international paid media accounts",
+        "reporting": "Continuous monitoring + regular strategic reviews"
       }
     }
   },
   "languages": {
     "ua": "Ukrainian",
     "gb": "English"
+  },
+  "privacyPolicy": {
+    "slug": "privacy-policy",
+    "title": "Privacy & Cookie Policy",
+    "lastUpdated": "25 August 2026",
+    "language": "en",
+    "controller": {
+      "legalName": "ФОП Кузьменюк Борис Олександрович",
+      "registryRecord": "2011600000000096423",
+      "registrationDate": "2026-08-17",
+      "registeredAddress": "Україна, 21007, Вінницька обл., Вінницький р-н, м. Вінниця, вул. Стрілецька, буд. 21",
+      "website": "https://photon-digital.com/",
+      "email": "info@photon-digital.com",
+      "phone": "+38 (068) 708-32-41"
+    },
+    "contentHtml": "<article class=\"privacy-policy\" lang=\"en\">\n<h1>PRIVACY &amp; COOKIE POLICY</h1>\n<p><strong>Last updated: 25 August 2026</strong></p>\n<p>This Policy explains how Photon Digital processes personal data when you use the website, contact us, book a meeting, or interact with us as a client. It also describes the use of cookies, Cookiebot, Google Consent Mode v2 and Calendly.</p>\n<h2>1. Who we are and who controls the data</h2>\n<p>The website https://photon-digital.com/ and the Photon Digital brand are operated by Ukrainian sole proprietor (FOP) Кузьменюк Борис Олександрович (the “Controller”, “Photon Digital”, “we”, “us”).</p>\n<p>Ukrainian Unified State Register record No. 2011600000000096423, registered on 17 August 2026.</p>\n<p>Registered address: 21 Striletska Street, Vinnytsia, Vinnytsia District, Vinnytsia Region, 21007, Ukraine.</p>\n<p>Privacy contact: info@photon-digital.com. Website: https://photon-digital.com/. Phone: +38 (068) 708-32-41.</p>\n<p>Photon Digital is the controller for personal data used to operate its own website, handle enquiries, enter into and perform contracts, manage client relationships and comply with legal obligations.</p>\n<p>When we access or process personal data in a client’s advertising, analytics, CRM or other systems solely on the client’s documented instructions, Photon Digital may act as a processor/service provider and the client remains the controller. Those activities should be governed by the relevant services agreement and, where required, a Data Processing Agreement (DPA).</p>\n\n<h2>2. Scope of this Policy</h2>\n<p>This Policy applies to website visitors, people who submit a form or email us, people who book a meeting, prospective and current clients, and other business contacts.</p>\n<p>It describes processing performed by Photon Digital for its own purposes. Where we process data on behalf of a client, the client’s instructions and the applicable contract primarily govern that processing.</p>\n\n<h2>3. Personal data we may collect</h2>\n\n<h2>3.1. Data you provide directly</h2>\n<p>through the website form: your name, email address, message and any additional information you choose to include;</p>\n<p>when booking through Calendly: your name, email address, selected date and time, time zone, booking-form answers and other information you voluntarily provide;</p>\n<p>in correspondence: contact details, message content and attachments;</p>\n<p>during a client relationship: name, role, company, contact, contractual and billing/accounting details, project information, and access details for advertising or analytics systems to the extent necessary to provide the services.</p>\n\n<h2>3.2. Technical and analytics data</h2>\n<p>IP address, approximate location, browser and version, device, operating system, language, URL and referrer, date/time of requests and technical security logs;</p>\n<p>page views and interactions, cookie/local-storage identifiers, advertising identifiers or click IDs (for example gclid) where applicable;</p>\n<p>cookie consent choices and Consent Mode signals.</p>\n\n<h2>3.3. Data from other sources</h2>\n<p>information made available through Google Analytics, Google Ads and other advertising/analytics platforms according to their settings;</p>\n<p>information supplied by a client or its authorised personnel for the performance of our services;</p>\n<p>business contact information from public business sources or referrals where permitted by law.</p>\n\n<h2>3.4. Special-category data</h2>\n<p>We do not ask you to submit health data, biometric data, political or religious beliefs, sexual-life data, criminal-conviction data or other sensitive information through the website. Please do not include such information in free-text fields or Calendly unless it is strictly necessary.</p>\n\n<h2>4. Purposes and legal bases</h2>\n<p>The specific legal basis depends on the context. For individuals in the EEA/UK we refer to the relevant GDPR/UK GDPR basis; Ukrainian data-protection law also applies to our activities in Ukraine.</p>\n\n<table>\n<thead><tr><th>Purpose</th><th>Data categories</th><th>Legal basis</th></tr></thead>\n<tbody>\n<tr><td>Responding to an enquiry, free audit, or proposal request</td><td>Form data, correspondence, contact and project information</td><td>Steps taken at the individual’s request before entering into a contract (GDPR Art. 6(1)(b)); where appropriate, legitimate interests (Art. 6(1)(f))</td></tr>\n<tr><td>Providing PPC/analytics services and managing the client relationship</td><td>Contact, contractual and project data, system-access information</td><td>Performance of a contract (Art. 6(1)(b)); legitimate interests for B2B administration (Art. 6(1)(f))</td></tr>\n<tr><td>Accounting, tax and legal compliance</td><td>Contractual and financial records</td><td>Legal obligation (Art. 6(1)(c))</td></tr>\n<tr><td>Website security, abuse prevention and technical logging</td><td>IP address, request logs, technical data</td><td>Legitimate interests in protecting our website and services (Art. 6(1)(f))</td></tr>\n<tr><td>Managing and proving cookie consent/withdrawal</td><td>Consent state, consent ID and relevant technical data</td><td>Legal obligation and/or legitimate interests in demonstrating compliance (Art. 6(1)(c)/(f))</td></tr>\n<tr><td>Statistics and analytics using non-essential cookies</td><td>Cookie identifiers, events and interactions</td><td>Consent (Art. 6(1)(a))</td></tr>\n<tr><td>Limited measurement under Advanced Consent Mode while consent is denied</td><td>Consent signals and cookie-free measurements supported by Google</td><td>Legitimate interests in privacy-preserving measurement where permitted by law (Art. 6(1)(f)); where local law requires consent, processing occurs only after consent</td></tr>\n<tr><td>Advertising personalisation / marketing cookies, if enabled</td><td>Advertising identifiers and interaction data</td><td>Consent (Art. 6(1)(a))</td></tr>\n<tr><td>Scheduling a meeting through Calendly</td><td>Name, email, meeting time, booking-form answers</td><td>Pre-contract steps and/or legitimate interests in arranging the meeting (Art. 6(1)(b)/(f)); optional cookies are consent-based where required</td></tr>\n</tbody></table>\n\n<h2>5. Cookies, Cookiebot and Google Consent Mode v2</h2>\n<p>We use Cookiebot CMP by Usercentrics to manage cookie consent. The banner allows visitors to allow all cookies, choose categories, or reject non-essential cookies. Categories may include Necessary, Preferences, Statistics and Marketing.</p>\n<p>Non-essential cookies and storage should not be activated until the relevant consent is given. You can change or withdraw your choice at any time through Cookie Settings / the Cookie Declaration on the website.</p>\n<p>The website uses Google Consent Mode v2 in Advanced mode. Before the user makes a choice, the relevant consent states are configured as denied. In Advanced mode, Google tags may load and send limited cookie-free measurements (“cookieless pings”) together with the consent state. While analytics_storage or ad_storage remains denied, analytics/advertising cookies should not be read or written. After consent is granted, Google may receive fuller measurement data according to the categories you allowed.</p>\n<p>Consent Mode includes, among other signals, analytics_storage, ad_storage, ad_user_data and ad_personalization.</p>\n<p>The current list of cookies/trackers, providers, purposes and retention periods is shown in the dynamic Cookie Declaration generated by Cookiebot. This is the primary source for cookie-specific details because it updates as the website is rescanned.</p>\n\n<div id=\"CookieDeclarationContainer\"></div>\n<h2>6. Service providers and recipients</h2>\n<p>We disclose personal data only to the extent needed for the relevant purpose and use contractual/technical safeguards where applicable. Key categories of recipients are listed below.</p>\n\n<table>\n<thead><tr><th>Provider / category</th><th>Use</th><th>Data that may be processed</th></tr></thead>\n<tbody>\n<tr><td>Cloudflare</td><td>Hosting/CDN/DNS, security and traffic proxying; email routing where enabled</td><td>IP addresses, request logs, technical metadata, email-routing metadata</td></tr>\n<tr><td>Google</td><td>Google Tag Manager, Google Analytics 4, Google Ads measurement; email services where used for correspondence</td><td>Technical data, analytics events, cookie/click IDs, consent signals, correspondence data</td></tr>\n<tr><td>Usercentrics / Cookiebot</td><td>CMP, consent banner and recording/documenting visitor choices</td><td>Consent state, consent ID and technical data needed to operate the CMP</td></tr>\n<tr><td>Calendly, LLC</td><td>Popup/widget and meeting scheduling</td><td>Name, email, date/time, time zone, booking-form answers and technical data</td></tr>\n<tr><td>Email providers, professional advisers and contractors</td><td>Business correspondence, accounting, legal or technical support</td><td>Only the data necessary for the relevant service</td></tr>\n</tbody></table>\n\n<h2>7. International transfers</h2>\n<p>Photon Digital is established in Ukraine, while some infrastructure and service providers operate in the EEA, the United States and other countries. Personal data may therefore be processed outside the country where you are located.</p>\n<p>Where GDPR/UK GDPR applies, transfers are supported by lawful mechanisms as applicable, including adequacy decisions, the EU-U.S. Data Privacy Framework and relevant extensions, Standard Contractual Clauses (SCCs), or other appropriate safeguards depending on the provider and transfer route.</p>\n<p>Calendly states that user and invitee data are stored in U.S.-based data centres and that Calendly is certified under the EU-U.S. Data Privacy Framework. Cloudflare and Google also publish information about DPF/SCC mechanisms and other international-transfer safeguards.</p>\n<p>You may contact info@photon-digital.com to request further information about the transfer mechanism relevant to your data.</p>\n\n<h2>8. Retention</h2>\n<p>Prospect enquiries that do not become a client relationship: generally up to 24 months after the last meaningful interaction, unless we have a reason to keep them longer or delete them sooner.</p>\n<p>Current/former client data, contracts, invoices and accounting records: for the duration of the relationship and afterwards for the period required by applicable tax, accounting or other law or to establish, exercise or defend legal claims.</p>\n<p>Calendly booking data: for as long as needed to arrange the meeting and manage the related business relationship; Calendly may also retain data according to its own settings and privacy notice.</p>\n<p>Google Analytics 4: user-level/event-level retention is governed by the GA4 property setting (Google provides 2- or 14-month options for standard properties). Aggregated reporting may remain available for longer. Cookie-specific expiry periods are shown in the Cookie Declaration.</p>\n<p>Consent records: for as long as reasonably necessary to demonstrate compliance with consent requirements and according to CMP settings.</p>\n\n<h2>9. Security</h2>\n<p>We use reasonable technical and organisational measures proportionate to risk, including HTTPS/TLS, access controls, least-privilege access, multi-factor authentication where available, restrictions on access to client accounts, and reputable service providers with appropriate security measures.</p>\n<p>No method of transmission or storage can guarantee absolute security.</p>\n\n<h2>10. Your rights</h2>\n<p>Depending on applicable law, you may have the right to obtain information and a copy of your data; correct inaccurate data; request deletion; restrict processing; object to processing based on legitimate interests; receive portable data where applicable; withdraw consent without affecting processing already lawfully carried out; and lodge a complaint with a competent supervisory authority.</p>\n<p>To exercise your rights, email info@photon-digital.com. We may request the minimum additional information needed to verify your identity. Requests are handled within the time limits required by applicable law (under GDPR, normally within one month).</p>\n<p>In Ukraine, you may complain to the Ukrainian Parliament Commissioner for Human Rights or a court. Where GDPR applies, you may also complain to the supervisory authority in the EEA country of your habitual residence, place of work, or the alleged infringement.</p>\n\n<h2>11. Automated decision-making</h2>\n<p>Photon Digital does not make decisions about website visitors or people who contact us that are based solely on automated processing and produce legal or similarly significant effects within the meaning of GDPR Article 22.</p>\n\n<h2>12. Children’s data</h2>\n<p>Photon Digital is a business-to-business service and the website is not directed to children. We do not knowingly collect children’s personal data through the website. If you believe a child has provided us with personal data, please contact info@photon-digital.com.</p>\n\n<h2>13. Sale of personal data and marketing emails</h2>\n<p>We do not sell personal data. As of the date of this Policy, the website form is not used to subscribe visitors to a bulk marketing-email newsletter. If such communications are introduced, we will use an appropriate legal basis and provide an unsubscribe mechanism.</p>\n\n<h2>14. Changes to this Policy</h2>\n<p>We may update this Policy when our services, technology, vendors or legal requirements change. The current version will be published on this page with an updated “Last updated” date.</p>\n\n<h2>15. Contact</h2>\n<p>Photon Digital / sole proprietor Borys Kuzmeniuk (Кузьменюк Борис Олександрович)</p>\n<p>Privacy email: info@photon-digital.com</p>\n<p>Website: https://photon-digital.com/</p>\n<p>Registered address: 21 Striletska Street, Vinnytsia, Vinnytsia District, Vinnytsia Region, 21007, Ukraine.</p>\n\n</article>",
+    "cookieDeclaration": {
+      "provider": "Cookiebot by Usercentrics",
+      "cbid": "c9cf4fbc-5b88-4c9e-b085-806c4aba649a",
+      "declarationScriptSrc": "https://consent.cookiebot.com/c9cf4fbc-5b88-4c9e-b085-806c4aba649a/cd.js",
+      "culture": "en",
+      "scriptId": "CookieDeclaration",
+      "async": true
+    }
   }
 }
