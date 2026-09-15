@@ -1,4 +1,12 @@
 // main.js
+//
+// Translations are bundled by Parcel at build time (no runtime fetch —
+// src/locales is not copied to the build output, so /locales/*.json 404s).
+
+import en from './locales/en.json';
+import uk from './locales/uk.json';
+
+const LOCALES = { en, uk };
 
 const i18n = {
   translations: {},
@@ -14,41 +22,10 @@ const i18n = {
     return segments.includes('uk') ? 'uk' : 'en';
   },
 
-  // Build a correct URL for locales for BOTH:
-  // - localhost:1234/en, localhost:1234/uk
-  // - deployments with subfolders (public-url ./)
-  // We assume locales folder is at site root OR alongside your dist root.
-  getLocalesUrl(langFile) {
-    // Example:
-    // current page: http://localhost:1234/en
-    // want:        http://localhost:1234/locales/en.json
-    //
-    // Using origin + /locales works on localhost/domain root hosting.
-    // But for relative hosting (e.g. GitHub Pages /myrepo/),
-    // you can swap to a relative base (see comment below).
-    const { origin } = window.location;
-    return `${origin}/locales/${langFile}.json`;
-  },
-
-  async loadTranslations(lang) {
-    const langFile = lang === 'uk' ? 'uk' : 'en';
-
-    try {
-      const url = this.getLocalesUrl(langFile);
-      const response = await fetch(url, { cache: 'no-cache' });
-
-      if (!response.ok) {
-        throw new Error(`Failed to load ${url} (${response.status})`);
-      }
-
-      this.translations = await response.json();
-      this.currentLang = lang;
-      return this.translations;
-    } catch (error) {
-      console.error('Error loading translations:', error);
-      this.translations = {};
-      return {};
-    }
+  loadTranslations(lang) {
+    this.currentLang = lang === 'uk' ? 'uk' : 'en';
+    this.translations = LOCALES[this.currentLang];
+    return this.translations;
   },
 
   getNestedValue(obj, path) {
